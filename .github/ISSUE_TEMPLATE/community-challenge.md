@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-*Tem alguma sugestão para quem for fazer o Desafio? Por Favor descreva.*
-Acompanhe o passo a passo da Elidiana Andrades.
+*Tem alguma sugestão para quem for fazer o Desfio? Por favor descreva.*
+Assistir video aula da Elidiana Andrade
 *Descreva como você realizou o seu*
-Acompanhando aula da Eliada Andrade.
+Acompanhando video aula da Elidiana Andrade
 
-*Links úteis*
--[Eliana Andrade]Nome do Link](github.com/elidianaandrade/dio-lab-open-source/asues/templates/edit)
+*Links uteis*
+- [Elidiana Andrade](github.com/elidianaandrade/dio-lab-open-source/assues/templates/edit)
